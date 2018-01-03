@@ -1,0 +1,15 @@
+h2.intro {
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+p.intro {
+  font-size: 75%
+}
+
+img.intro {
+  display: block;
+  margin: auto;
+  width: 40%;
+  box-shadow: 5px 10px 10px grey;
+}
